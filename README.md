@@ -1,1 +1,1 @@
-# spring-boot-admin-service-deployment
+# spring-boot-gateway-service-deployment
